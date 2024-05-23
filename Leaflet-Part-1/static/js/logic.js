@@ -80,7 +80,7 @@ function addLegend() {
     legend.addTo(map);
   }
   
-  nkjasndefhriuehfiuHEDHUO
+  
   
     // Plot earthquakes on initial load
     plotEarthquakes();
