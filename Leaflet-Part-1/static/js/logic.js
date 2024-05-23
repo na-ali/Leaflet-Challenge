@@ -79,9 +79,6 @@ function addLegend() {
   
     legend.addTo(map);
   }
-  
-  
-  
     // Plot earthquakes on initial load
     plotEarthquakes();
   
